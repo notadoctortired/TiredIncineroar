@@ -1,8 +1,3 @@
-I'm Incineroar. That is it.
+Games, Animation & VFX Student
 
-No, but really. Currently learning C#.
-
-Languages I use:
-- Python
-- Lua
-- C# (Learning)
+Languages: Python, Lua, C#
